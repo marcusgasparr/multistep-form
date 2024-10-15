@@ -1,0 +1,30 @@
+.tanks-container {
+  text-align: center;
+}
+
+.tanks-container h2 {
+  margin-bottom: 1rem;
+}
+
+.tanks-container p {
+  font-size: 0.9rem;
+  margin-bottom: 0.5rem;
+}
+
+.tanks-container h3 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.review-data{
+    text-align: start;
+    text-transform: capitalize;
+}
+
+.review-data svg{
+    margin-left: 5px;
+}
+
+.review-data span{
+  font-weight: bold;
+}

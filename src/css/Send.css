@@ -1,0 +1,24 @@
+.send-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  min-height: 280px;
+}
+
+.step-waiting h2,
+p {
+  margin-bottom: 0.6rem;
+}
+
+.step-waiting h2 {
+  font-size: 2rem;
+}
+
+.step-waiting p span {
+  color: #777;
+}
+
+.step-waiting svg {
+  font-size: 5rem;
+}
